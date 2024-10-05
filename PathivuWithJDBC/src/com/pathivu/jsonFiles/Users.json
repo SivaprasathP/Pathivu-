@@ -1,0 +1,18 @@
+[
+  {
+    "userID": "U1",
+    "userPassword": "111",
+    "userName": "Ajay",
+    "userAge": 20,
+    "gender": "MALE",
+    "ticketsBookedByUser": []
+  },
+  {
+    "userID": "U2",
+    "userPassword": "222",
+    "userName": "Bejoy",
+    "userAge": 25,
+    "gender": "MALE",
+    "ticketsBookedByUser": []
+  }
+]

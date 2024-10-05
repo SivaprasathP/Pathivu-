@@ -1,0 +1,130 @@
+[
+  {
+    "busID": "B1",
+    "busName": "Sundhara Travels",
+    "busType": "SLEEPER",
+    "driver": {
+      "driverName": "Ram",
+      "driverID": "D1",
+      "driverAge": 30
+    },
+    "startTime": "9:00",
+    "endTime": "16:00",
+    "boardingPlace": "Chennai",
+    "droppingPlace": "Tiruppur",
+    "seats": 4,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B2",
+    "busName": "Madhura Travels",
+    "busType": "SEMI_SLEEPER",
+    "driver": {
+      "driverName": "Vetri",
+      "driverID": "D2",
+      "driverAge": 29
+    },
+    "startTime": "12:00",
+    "endTime": "20:00",
+    "boardingPlace": "Tiruppur",
+    "droppingPlace": "Chennai",
+    "seats": 2,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B3",
+    "busName": "Anil Travels",
+    "busType": "SLEEPER",
+    "driver": {
+      "driverName": "Xavier",
+      "driverID": "D3",
+      "driverAge": 32
+    },
+    "startTime": "8:00",
+    "endTime": "10:00",
+    "boardingPlace": "Coimbatore",
+    "droppingPlace": "Tiruppur",
+    "seats": 1,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B4",
+    "busName": "Ambani Travels",
+    "busType": "DELUXE",
+    "driver": {
+      "driverName": "Karim Bhai",
+      "driverID": "D4",
+      "driverAge": 35
+    },
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "boardingPlace": "Chennai",
+    "droppingPlace": "Kancheepuram",
+    "seats": 4,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B6",
+    "busName": "Baba Travels",
+    "busType": "SLEEPER",
+    "driver": {
+      "driverName": "Ravi",
+      "driverID": "D5",
+      "driverAge": 37
+    },
+    "startTime": "9:00",
+    "endTime": "16:00",
+    "boardingPlace": "Chennai",
+    "droppingPlace": "Tiruppur",
+    "seats": 6,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B9",
+    "busName": "Badri",
+    "busType": "SLEEPER",
+    "driver": {
+      "driverName": "Karikada Bhai",
+      "driverID": "D7",
+      "driverAge": 30
+    },
+    "startTime": "13:00",
+    "endTime": "22:00",
+    "boardingPlace": "Chennai",
+    "droppingPlace": "Coimbatore",
+    "seats": 10,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B9",
+    "busName": "Badri",
+    "busType": "SLEEPER",
+    "driver": {
+      "driverName": "Karikada Bhai",
+      "driverID": "D7",
+      "driverAge": 30
+    },
+    "startTime": "13:00",
+    "endTime": "22:00",
+    "boardingPlace": "Chennai",
+    "droppingPlace": "Coimbatore",
+    "seats": 10,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  },
+  {
+    "busID": "B9",
+    "busName": "Badri",
+    "busType": "SLEEPER",
+    "driver": {
+      "driverName": "Karikada Bhai",
+      "driverID": "D7",
+      "driverAge": 30
+    },
+    "startTime": "13:00",
+    "endTime": "22:00",
+    "boardingPlace": "Chennai",
+    "droppingPlace": "Coimbatore",
+    "seats": 10,
+    "date": "Mar 20, 2024, 12:00:00 AM"
+  }
+]
