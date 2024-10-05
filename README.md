@@ -17,13 +17,13 @@ Pathivu is a user-based console application that allows users to create accounts
 
 ## Features
 
-    **User Registration** : Users can create an account with their details.
-    **User Login** : Users can securely log in using their credentials.
-    **Bus Ticket Booking** : Users can search for available buses, select one, and book their tickets.
-    **View Bookings** : Users can view their previously booked tickets.
+    User Registration : Users can create an account with their details.
+    User Login : Users can securely log in using their credentials.
+    Bus Ticket Booking : Users can search for available buses, select one, and book their tickets.
+    View Bookings : Users can view their previously booked tickets.
 
 ## Technologies Used
 
-    **Java** : Core language for the application logic.
-    **MySQL** : Database for storing user, bus, and ticket information.
-    **JDBC** : Java Database Connectivity for database operations.
+    Java : Core language for the application logic.
+    MySQL : Database for storing user, bus, and ticket information.
+    JDBC : Java Database Connectivity for database operations.
